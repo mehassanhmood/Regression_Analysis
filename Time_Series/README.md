@@ -1,4 +1,4 @@
-## Tiome Series Analysis :
+## Time Series Analysis :
 #### Steps Involved :
 1. importing required libraries and dependencies.
 2. importing data in a format that is required for this analysis.
