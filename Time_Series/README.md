@@ -8,7 +8,7 @@
 5. Forecasting Volatility with GARCH.
 #### Conclusions :
 1. With the help of Hodrick Prescott filter , noise was seperated from trend of data. It is clear that their is indeed an element of trend exhibited by the price action. It is evident from the following visualizations :
-![alt text](noise.jpg 'Noise')
+![alt text](noise.jpg "Noise")
 ![alt text](trend.jpg 'Trend')
 ![alt text](Trend_price.jpg 'Trend with Price Action')
 2. Summary of ARMA model suggests that this model is not suitable for the current data.However, based on this model following reurns can be forecasted.
